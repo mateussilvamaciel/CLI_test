@@ -1,0 +1,21 @@
+body{
+    background-color: wheat;
+}
+
+#head {
+    background-color: blue;
+    height: 150px;
+    width: 100%;
+    border: 5px solid gray;
+}
+
+h1 {
+    text-align: center;
+}
+
+.fotter {
+    background-color: saddlebrown;
+    height:150px;
+    width: 100%;
+    border: 5px solid gray;
+}
